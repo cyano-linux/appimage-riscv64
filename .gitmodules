@@ -1,0 +1,3 @@
+[submodule "type2-runtime"]
+	path = type2-runtime
+	url = https://github.com/AppImage/type2-runtime.git

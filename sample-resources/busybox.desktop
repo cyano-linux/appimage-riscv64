@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=BusyBox
+Exec=busybox
+Comment=The Swiss Army Knife of Embedded Linux
+Icon=busybox
+Categories=Utility;
+Terminal=true
